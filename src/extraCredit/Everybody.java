@@ -7,6 +7,7 @@ public class Everybody {
         System.out.println("Kyle Haley, Edit: 10/09/2014 10:08AM");
         System.out.println("Brendan Nelson-Weiss, Edit: 10/09/2014 10:39AM");
         System.out.println("Gregory Hooks, Edit: 10/09/2014 6:57PM")
+        System.out.println("Kyle Haley, Last Commit Message."
+               + " 10/12/2014 5:14 PM");
 	}
-
 }
