@@ -13,5 +13,6 @@ public class Everybody {
         System.out.println("Zachary Rodriguez, Edit: 10/14/2014 10:43AM");
         System.out.println("Eric Applonie 10/14/2014 11:30AM")
         System.out.println("Kyle Sauriol 10/14/2014 1:23PM");
+        System.out.println("Michael Charo 10/14/2014 1342");
 	}
 }
