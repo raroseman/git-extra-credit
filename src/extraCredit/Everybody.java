@@ -10,5 +10,6 @@ public class Everybody {
         System.out.println("Kyle Haley, Last Commit Message."
                + " 10/12/2014 5:14 PM");
         System.out.println("Gregory Hooks, Final Edit: 10/12/2014 5:31PM");
+        System.out.println("Zachary Rodriguez, Edit: 10/14/2014 10:43AM");
 	}
 }
