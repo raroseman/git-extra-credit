@@ -14,5 +14,6 @@ public class Everybody {
         System.out.println("Eric Applonie 10/14/2014 11:30AM")
         System.out.println("Kyle Sauriol 10/14/2014 1:23PM");
         System.out.println("Michael Charo 10/14/2014 1342");
+        System.out.println("Laura Aquino 10/14/2014 1:44PM");
 	}
 }
