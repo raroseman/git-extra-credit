@@ -19,5 +19,6 @@ public class Everybody {
     System.out.println("Isaias Puente 10/15/2014 2:47PM");
     System.out.println("Zachary Rodriguez, Final Edit: 10/15/2014 8:48PM");
     System.out.println("Joi Williams, First Commit, 10/15/2014 10:38PM");
+    System.out.println("Jarred Deeley, Edit: 10/16/2014 10:06AM");
   }//end main
 }//end class
