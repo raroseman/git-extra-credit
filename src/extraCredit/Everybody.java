@@ -17,5 +17,6 @@ public class Everybody {
     System.out.println("Laura Aquino 10/14/2014 1:44PM");
     System.out.println("Laura Aquino 10/15/2014 2:37PM");
     System.out.println("Isaias Puente 10/15/2014 2:47PM");
+    System.out.println("Zachary Rodriguez, Final Edit: 10/15/2014 8:48PM");
   }//end main
 }//end class
